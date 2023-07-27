@@ -24,5 +24,4 @@ The services sections outlines the range of services offered by an individual.
 Lastly the contact page includes a contact form, making it easy for the viewer 
 to get in touch for collaborations or inquiries.
 
-<a href="https://portfolio.anshitaarya17.repl.co/">
-ANSHITA </a>
+<a href="https://portfolio.anshitaarya17.repl.co/"> MY PORTFOLIO </a>
