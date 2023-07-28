@@ -25,6 +25,5 @@ Lastly the contact page includes a contact form, making it easy for the viewer
 to get in touch for collaborations or inquiries.
 
 <h1> <a href="https://portfolio.anshitaarya17.repl.co/"> MY PORTFOLIO </a> </h1>
-<br>
 ![alt text](Portfolio.png)
-</br>
+
